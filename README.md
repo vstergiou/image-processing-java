@@ -1,6 +1,6 @@
 # Image Proccecing with Java
 
-Image Processing created purely in Java converting every image format to [PPM][ppmlink] and [YUV][yuvlink] image formats.
+Image Processing created purely in Java for the Object Oriented Programming course.  It can convert every image format to [PPM][ppmlink] and [YUV][yuvlink] image formats.
 
 
 
@@ -23,7 +23,7 @@ Image Processing created purely in Java converting every image format to [PPM][p
 
 ## How to run it
 
-Open the app as a project with Netbeans , compile and run .
+Open Netbeans and create a project with the files, compile and run it.
 
 
 
